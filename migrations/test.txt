@@ -1,0 +1,1 @@
+New folder for Migrations.js files for deployment of smart contracts
