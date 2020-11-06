@@ -1,0 +1,1 @@
+Created new folder for managing tests js files
